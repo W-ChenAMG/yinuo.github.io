@@ -3,9 +3,8 @@
   "version": "0.0.0",
   "scripts": {
     "dev": "vite --host",
-    "build": "vue-tsc --noEmit && vite build && bash scripts/deploy.sh",
-    "serve": "vite preview",
-    "release": "bash scripts/deploy.sh"
+    "build": "vue-tsc --noEmit && vite build",
+    "serve": "vite preview"
   },
   "dependencies": {
     "vue": "^3.0.5"

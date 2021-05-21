@@ -20,6 +20,6 @@ git commit -m 'deploy'
 # git push -f git@github.com:w-chenamg/w-chenamg.github.io.git master
 
 # 如果你要部署在 https://<USERNAME>.github.io/<REPO>
-git push -f g/it@github.com:w-chenamg/yinuo.git master:gh-pages
+git push -f g/it@github.com:W-ChenAMG/yinuo.git master:gh-pages
 
 cd -
